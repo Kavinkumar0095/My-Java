@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Testing.java&apos; to &apos;FacebookAutomation/src/com.facebookautomation.com&apos;&#x0D;&#x0A;- Original project: &apos;FacebookAutomation&apos;&#x0D;&#x0A;- Destination element: &apos;FacebookAutomation/src/com.facebookautomation.com&apos;&#x0D;&#x0A;- Original element: &apos;com.facebookautomation.com.Testing.java&apos;" description="Copy compilation unit" destination="/src&lt;com.facebookautomation.com" element1="/src&lt;com.facebookautomation.com{Testing.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1655965656815" units="1" version="1.0"/>
+</session>

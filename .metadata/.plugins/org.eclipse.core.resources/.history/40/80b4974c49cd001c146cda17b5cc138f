@@ -1,0 +1,13 @@
+package genders;
+
+public class Girl {
+	public void girlName() {
+		System.out.println("girl details");
+	}
+	public void girlAddress() {
+System.out.println("girlAddress chennai");
+	}
+	public void girlPhone() {
+System.out.println("girlPhone 959790738");
+	}
+}

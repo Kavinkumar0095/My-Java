@@ -1,0 +1,17 @@
+package genders;
+
+public class Boy extends Girl {
+	@Override
+	public void girlName() {
+		super.girlName();
+		System.out.println("boy name is kavin");
+	}
+
+	public static void main(String[] args) {
+		Boy b = new Boy();
+		b.girlName();
+		b.girlAddress();
+		b.girlPhone();
+		
+	}
+}

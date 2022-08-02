@@ -1,0 +1,14 @@
+Refactoring.savealleditors=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_favorite_static_members=org.testng.Assert.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="com.task.first.EmployeeDetails"><rhs name\="com.task.first.EmployeeDetails"/></lhs><lhs name\="com.details.stadium.StadiumDetails"><rhs name\="com.details.stadium.StadiumDetails"/></lhs><lhs name\="com.details.stadium.Father"><rhs name\="com.details.stadium.Son"/></lhs><lhs name\="com.details.stadium.Son"><rhs name\="com.details.stadium.Son"/></lhs><lhs name\="one.A"><rhs name\="one.A"/></lhs><lhs name\="two.C"><rhs name\="two.D"/></lhs><lhs name\="two.D"><rhs name\="two.D"/></lhs><lhs name\="bikes.BikeName"><rhs name\="bikes.BikeName"/></lhs><lhs name\="bikes.MyDetails"><rhs name\="bikes.MyDetails"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedList"/><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.LinkedHashSet"/></lhs><lhs name\="org.openqa.selenium.By"><rhs name\="org.openqa.selenium.By$ByName"/></lhs><lhs name\="java.time.temporal.TemporalAmount"><rhs name\="java.time.Duration"/></lhs><lhs name\="org.openqa.selenium.support.ui.ISelect"><rhs name\="org.openqa.selenium.support.ui.Select"/></lhs><lhs name\="org.openqa.selenium.WrapsElement"><rhs name\="org.openqa.selenium.support.ui.Select"/></lhs><lhs name\="org.openqa.selenium.support.ui.Select"><rhs name\="org.openqa.selenium.support.ui.Select"/></lhs><lhs name\="org.openqa.selenium.interactions.Actions"><rhs name\="org.openqa.selenium.interactions.Actions"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=17
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
